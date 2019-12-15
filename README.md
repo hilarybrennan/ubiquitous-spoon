@@ -25,7 +25,7 @@ This repo contains 3 directories.
 
 The first directory is called "BLOG", which is a blog. If you are interested in the process of creating and maintaining this project, want to know more about the impetus for the project or biographical details of its maintainer(s), go there. Someday we may have a website. For now we have a repo.
 
-The second directory is called "DOCS" this is where all of the technical documentation for contributing to and using the software is kept. If you are a developer who would like to contribute to the project, please start with "Getting Started".
+The second directory is called "DOCS" this is where all of the technical documentation for contributing to and using the software is kept. If you are a developer who would like to contribute to the project, please start with ["getting started"](https://github.com/hilarybrennan/ubiquitous-spoon/blob/master/DOCS/getting-started.md).
 
 The final (or perhaps first) directory is the root directory. This where the code lives. 
 
