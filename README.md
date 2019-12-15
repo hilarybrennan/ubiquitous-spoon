@@ -14,7 +14,9 @@ The code behind the model is licensed under the [GNU gplV3](https://www.gnu.org/
 
 If you want to contribute to the code, just open a pull request. Please remember that kind contributors use comments! 
 
-If you want to contribute to the magazine, please send a submission in a `.txt` attachment to ubiquitous.spoon@gmail.com. Please be aware that right now we are not set up to  If you are a visual artist and you want to contribute to future iterations that include visual art, stay tuned while we brush up on our computer vision skills. 
+If you want to contribute to the magazine, please send a submission in a `.txt` attachment with the title `SUBMISSION-[YOURNAME]/[TITLE]` to ubiquitous.spoon@gmail.com. Please be aware that right now we are not set up to respond promptly, so be aware that your submission may be temporarily lost in the void and may be ineligible to submit to journals and presses that don't accept simultaneous submissions for some time. We understand that this is a big problem hope to be able to speed up our process in the near future.
+
+If you are a visual artist and you want to contribute to future iterations that include visual art, stay tuned while we brush up on our computer vision skills. 
 
 
 ## Navigating the Repo
