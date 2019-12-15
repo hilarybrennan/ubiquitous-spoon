@@ -36,3 +36,5 @@ The final (or perhaps first) directory is the root directory. This where the cod
 The data collection policy lives here. 
 
 Right now we are not collecting any data that does not live in this repo (e.g. your github username as connected to a PR or bug) or the [ubiquitous-spoon email inbox](mailto:ubiquitous.spoon@gmail.com). 
+
+We are deeply committed to managing data with transparency and integrity, and will update out Data Collection Policy faithfully as things change.
