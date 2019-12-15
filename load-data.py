@@ -12,3 +12,6 @@
 #
 #     You should have received a copy of the GNU General Public License
 #     along with ubiquitous-spoon.  If not, see <https://www.gnu.org/licenses/>.
+
+import pandas as pd
+import os
