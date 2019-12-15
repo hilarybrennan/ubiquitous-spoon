@@ -1,3 +1,22 @@
+# Establishes training and submission data classes and methods
+# Owner: Hilary Brennan
+# Last Update: 12/15/2019
+
+import pandas as pd
+import os
+
+class Data():
+    def __init__(self, abspath):
+        self.self = self
+        self.abspath = abspath
+
+        # Load data from csv to dataframe
+        self.df = pd.read_csv(abspath, header='infer')
+        self.fields = self.df.columns
+
+class Training(Data):
+
+
 #     This file is part of ubiquitous-spoon.
 #
 #     ubiquitous-spoon is free software: you can redistribute it and/or modify
@@ -12,6 +31,3 @@
 #
 #     You should have received a copy of the GNU General Public License
 #     along with ubiquitous-spoon.  If not, see <https://www.gnu.org/licenses/>.
-
-import pandas as pd
-import os
