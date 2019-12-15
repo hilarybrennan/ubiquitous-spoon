@@ -4,7 +4,7 @@
 
 **1. What is ubiquitous-spoon?**
 
-Simply put, ubiquitous-spoon is a literary magazine edited by AI. The name refers to both the magaszine itself and the machine learning model used to generate it.
+Simply put, ubiquitous-spoon is a literary zine edited by a Machine Learning Model trained on curated text data. The name refers to both the zine itself and the machine learning model used to generate it.
 
 **2. How is ubiquitous-spoon licensed?**
 
@@ -14,7 +14,7 @@ The code behind the model is licensed under the [GNU gplV3](https://www.gnu.org/
 
 If you want to contribute to the code, just open a pull request. Please remember that kind contributors use comments! 
 
-If you want to contribute to the magazine, please send a submission in a `.txt` attachment with the title `SUBMISSION-[YOURNAME]/[TITLE]` to ubiquitous.spoon@gmail.com. Please be aware that right now we are not set up to respond promptly, so be aware that your submission may be temporarily lost in the void and may be ineligible to submit to journals and presses that don't accept simultaneous submissions for some time. We understand that this is a big problem hope to be able to speed up our process in the near future.
+If you want to contribute to the magazine, please send a submission in a `.txt` attachment with the title `SUBMISSION-[YOURNAME]/[TITLE]` to ubiquitous.spoon@gmail.com. Please be aware that right now we are not set up to respond promptly, and your submission may be temporarily lost in the void and may be ineligible to submit to journals and presses that don't accept simultaneous submissions for some time. We understand that this is a big problem hope to be able to speed up our process in the near future.
 
 If you are a visual artist and you want to contribute to future iterations that include visual art, stay tuned while we brush up on our computer vision skills. 
 
