@@ -3,9 +3,8 @@
 # Last Update: 12/15/2019
 
 import pandas as pd
-import os
 
-class Data():
+class Training():
     def __init__(self, abspath):
         self.self = self
         self.abspath = abspath
@@ -14,7 +13,10 @@ class Data():
         self.df = pd.read_csv(abspath, header='infer')
         self.fields = self.df.columns
 
-class Training(Data):
+class Submission():
+    def __init__(self, abspath):
+        self.self = self
+        self.abspath = abspath
 
 
 #     This file is part of ubiquitous-spoon.
