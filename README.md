@@ -4,7 +4,7 @@
 
 **1. What is ubiquitous-spoon?**
 
-Simply put, ubiquitous-spoon is a literary zine edited by a Machine Learning Model trained on curated text data. The name refers to both the zine itself and the machine learning model used to generate it.
+Simply put, ubiquitous-spoon is a literary zine edited by a machine learning model trained on curated text data. The name refers to both the zine itself and the machine learning model used to generate it.
 
 **2. How is ubiquitous-spoon licensed?**
 
