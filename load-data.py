@@ -18,6 +18,8 @@ class Submission():
         self.self = self
         self.abspath = abspath
 
+#TODO extract text data from training set and pull out some basic features: number of lines, length of lines, etc
+
 
 #     This file is part of ubiquitous-spoon.
 #
