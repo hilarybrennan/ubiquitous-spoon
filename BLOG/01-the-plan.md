@@ -24,6 +24,7 @@ I have spent a lot of time brainstorming possible features for categorizing poet
 - Longest line length
 - Shortest line length
 - [One-hot](https://jjallaire.github.io/deep-learning-with-r-notebooks/notebooks/6.1-one-hot-encoding-of-words-or-characters.nb.html) representation of words present in a given record.
+
 THIS IS VERY SIMPLE. Overly simple, in fact. That is by design. If you have ideas for features and how to encode them, please, please, please [file a feature request](https://github.com/hilarybrennan/ubiquitous-spoon/issues/new)!
 
 >**A quick note about the inherent problem of a training set:**
