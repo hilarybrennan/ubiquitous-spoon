@@ -4,7 +4,7 @@
 
 import pandas as pd
 
-#Create classes
+#Create Corpus class to read poetry data from local csv file into pandas dataframe
 
 class Corpus():
     def __init__(self, abspath):
@@ -14,6 +14,7 @@ class Corpus():
         # Load data from csv to dataframe
         self.df = pd.read_csv(abspath, header='infer')
         self.fields = self.df.columns
+
 
 #     This file is part of ubiquitous-spoon.
 #
