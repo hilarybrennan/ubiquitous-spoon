@@ -4,7 +4,9 @@
 
 import pandas as pd
 
-class Training():
+#Create classes
+
+class Corpus():
     def __init__(self, abspath):
         self.self = self
         self.abspath = abspath
@@ -12,14 +14,6 @@ class Training():
         # Load data from csv to dataframe
         self.df = pd.read_csv(abspath, header='infer')
         self.fields = self.df.columns
-
-class Submission():
-    def __init__(self, abspath):
-        self.self = self
-        self.abspath = abspath
-
-#TODO extract text data from training set and pull out some basic features: number of lines, length of lines, etc
-
 
 #     This file is part of ubiquitous-spoon.
 #
