@@ -15,6 +15,9 @@ class Corpus():
         self.df = pd.read_csv(abspath, header='infer')
         self.fields = self.df.columns
 
+# Data loads from local data directory - **DO NOT CHECK IN DATA ITSELF**
+
+training =
 
 #     This file is part of ubiquitous-spoon.
 #
