@@ -14,7 +14,9 @@ The code behind the model is licensed under the [GNU gplV3](https://www.gnu.org/
 
 If you want to contribute to the code, just open a pull request. Please remember that kind contributors use comments! 
 
-If you want to contribute to the magazine, please send a submission in a `.txt` attachment to ubiquitous.spoon@gmail.com. Please be aware that right now we are not set up to  If you are a visual artist and you want to contribute to future iterations that include visual art, stay tuned while we brush up on our computer vision skills. 
+If you want to contribute to the magazine, please send a submission in a `.txt` attachment with the title `SUBMISSION-[YOURNAME]/[TITLE]` to ubiquitous.spoon@gmail.com. Please be aware that right now we are not set up to respond promptly, and your submission may be temporarily lost in the void and may be ineligible to submit to journals and presses that don't accept simultaneous submissions for some time. We understand that this is a big problem hope to be able to speed up our process in the near future.
+
+If you are a visual artist and you want to contribute to future iterations that include visual art, stay tuned while we brush up on our computer vision skills. 
 
 **4. Do you pay your contributors?**
 
@@ -28,6 +30,7 @@ This repo contains 3 directories.
 
 The first directory is called [BLOG](https://github.com/hilarybrennan/ubiquitous-spoon/tree/load-clean-data/BLOG), which is a blog. If you are interested in the process of creating and maintaining this project, want to know more about the impetus for the project or biographical details of its maintainer(s), go there. Someday we may have a website. For now we have a repo.
 
+
 The second directory is called [DOCS](https://github.com/hilarybrennan/ubiquitous-spoon/tree/load-clean-data/DOCS). This is where all of the technical documentation for contributing to and using the software is kept. If you are a developer who would like to contribute to the project, please start with ["Getting Started"](https://github.com/hilarybrennan/ubiquitous-spoon/blob/load-clean-data/DOCS/getting-started.md).
 
 The final (or perhaps first) directory is the root directory. This where the code lives. 
@@ -39,3 +42,5 @@ The final (or perhaps first) directory is the root directory. This where the cod
 The data collection policy lives here. 
 
 Right now we are not collecting any data that does not live in this repo (e.g. your github username as connected to a PR or bug) or the [ubiquitous-spoon email inbox](mailto:ubiquitous.spoon@gmail.com). 
+
+We are deeply committed to managing data with transparency and integrity, and will update out Data Collection Policy faithfully as things change.
